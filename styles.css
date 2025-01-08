@@ -131,6 +131,7 @@ h2 {
   background-color: whitesmoke;
   border-radius: 10px;
   padding: 20px;
+  min-width: 200px;
 }
 .parrafo {
   padding: 20px;
